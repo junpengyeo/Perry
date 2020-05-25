@@ -3,3 +3,7 @@ Perry is made for a rehabilitation system to help stroke and Parkinson’s patie
 
 <img src="images/elderly-test.JPG" width="500">
 ## User Testing
+<figure>
+  <img src="images/elderly-test.JPG" width="500">
+  <figcaption>User Test at rehabilitation center</figcaption>
+</figure>
